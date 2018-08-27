@@ -19,6 +19,9 @@ gostariam de resistir a muitos ataques ou que precisem realizar ações físicas
 # Persona
 
 ## Carisma
+Carisma mede a personalidade, aparência, socialização de um personagem. A carisma é importante para liderança,
+influênciar pessoas, interagir com outros. Quanto maior a carisma de um personagem mais fácil é para que os
+outros ao redor gostem do personagem.
 
 ## Inteligência
 
