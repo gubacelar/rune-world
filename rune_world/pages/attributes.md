@@ -24,13 +24,18 @@ influênciar pessoas, interagir com outros. Quanto maior a carisma de um persona
 outros ao redor gostem do personagem.
 
 ## Inteligência
+Inteligência mede a capacidade de aprender, entender
 
 ## Sabedoria
 
 # Mágicos
 
 ## Concentração
+Concentração mede a capacidade de formular um pensamento apesar das circunstâncias. A concentração define quantas
+runas você consegue manipular ao mesmo tempo para executar uma magia.
 
 ## Raciocínio
+Raciocínio mede a velocidade com que o pensamento é formulado. Define quantos combinações de runas e quantos tipos de runa podem ser utilizados.
 
-## Energia
+## Rune Power
+Rune Power mede a capacidade de manipular runas. Define a quantidade de Runas que pode ter sob controle.
