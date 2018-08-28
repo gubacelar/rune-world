@@ -20,6 +20,9 @@
   -->
 
 [Atributos](pages/attributes.md)
+[Habilidades](pages/skills.md)
+[Talentos](pages/talents.md)
+[Runas](pages/runes.md)
 
 
 <!-- A more complex navigation example: ----------------------------------------

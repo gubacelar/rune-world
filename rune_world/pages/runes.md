@@ -1,0 +1,18 @@
+# Runas
+
+
+## Terra
+
+## Água
+
+## Fogo
+
+## Ar
+
+## Vida
+
+## Morte
+
+## Arcana
+
+## Sinestésica
