@@ -30,11 +30,12 @@
 
 ## Combate
 
-### Corpo a corpo
-### Distância
+### Desarmado
+### Armado corpo a corpo
+### Armado a distância
 ### Esquiva
-### acuidade em armas
+
 
 ## Profissional
 
-### Oficios ()
+### Oficios
