@@ -1,6 +1,8 @@
 # Atributos
 Existem três tipos e atributos, os atributos Físicos, Persona e Mágicos, cada um desses tipos de atributos servem para descrever qualidades de seu personagem.
 
+---
+
 # Físicos
 Atributos físicos dizem respeito as capacidades físicas de um personagem.
 
@@ -13,6 +15,8 @@ Agilidade mede os reflexos, equilíbrio e a rapidez com que algumas ações são
 ## Constituição
 Constituição mede a saúde e resiliência de um personagem. A constituição é um atributo importante para mostrar o quanto um personagem pode resistir a testes físicos, por quanto tempo pode realizar determinada ação antes de se cansar ou até mesmo o quão resistente é um personagem. É um atributo importante para aqueles personagens que
 gostariam de resistir a muitos ataques ou que precisem realizar ações físicas durante muito tempo.
+
+---
 
 # Persona
 Atributos do tipo persona dizem respeito a personalidade e como o personagem interage com o mundo ao seu redor.
@@ -27,6 +31,8 @@ Sanidade mede o quanto um personagem consegue entender da realidade ao seu redor
 
 ## Honra
 Honra mede os ideais de um personagem, a conduta. A honra pode dar bonus ou ônus para um personagem dependendo de suas ações. Um personagem com uma honra elevada se sentiria bem e entusiasmado para enfrenter um oponente mais forte ou a altura, mas também se sentiria mau por atacar alguém mais fraco. Um personagem com uma honra baixa não teria problemas por atacar alguém pelas costas.
+
+---
 
 # Mágicos
 Atributos mágicos dizem respeito a inteligência e conexão do seu personagem com as runas.

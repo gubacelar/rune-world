@@ -1,11 +1,15 @@
 # Habilidades
 
+---
+
 ## Percepção
 
 ### Audição
 ### Visão
 ### Sentir
 ### Intuição
+
+---
 
 ## Social
 
@@ -14,12 +18,16 @@
 ### Empatia
 ### Manipulação
 
+---
+
 ## Atléticos
 
 ### Saltar
 ### Escalar
 ### Cavalgar
 ### Natação
+
+---
 
 ## Sobrevivência
 
@@ -28,6 +36,8 @@
 ### Cura
 ### Cozinhar
 
+---
+
 ## Combate
 
 ### Desarmado
@@ -35,6 +45,7 @@
 ### Armado a distância
 ### Esquiva
 
+---
 
 ## Profissional
 
