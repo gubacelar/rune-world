@@ -2,9 +2,9 @@
 
 | Runas | Magia        |
 |-------|--------------|
-| 1     | [Dardo Arcano](pages/magics.md#Dardo_Arcano) |
-| 3      | [Bola de Fogo](pages/magics.md#Bola_de_Fogo)|
-|       |              |
+| 1     | [Dardo Arcano](/pages/magics.md#Dardo_Arcano) |
+| 3      | [Bola de Fogo](/pages/magics.md#Bola_de_Fogo)|
+
 
 
 ## 1 Runas
