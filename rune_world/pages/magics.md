@@ -11,34 +11,25 @@
 
 ---
 ### Dardo Arcano:
-
+| Descrição |
+| ------------------ |
 | Composição  | 1 Runa Arcana                                                                  |
 | Ataque      | Somente um ataque de toque a distância é feito e comparado ao AC de cada alvo. |
 | Dano        | 1d4                                                                            |
 | Variação | Substitui Runa Arcana.                                                         |
 
--	**Terra** (Dardo Metálico)
-> 1d4 de dano perfurante (bloqueado pela armadura física)
 
--	**Água** (Dardo de Gelo)
-> 1d4 de dano de gelo (reduz ¼ do movimento do alvo acertado no seu próximo turno)
+| Variação | Magia          | Efeito                                                 |
+|----------|----------------|--------------------------------------------------------|
+| Terra    | Dardo Metálico | 1d4 de dano perfurante(bloqueado pela armadura física) |
+| Água     | Dardo de Gelo  | 1d4 de dano de gelo (reduz ¼ do movimento do alvo acertado no seu próximo turno)  |
+| Fogo     | Dardo de Fogo  | 1d4 de dano de fogo (+metade desse dano no próximo turno) |
+| Ar     | Dardo de Ar  | 1d4 de dano de ar (Ignora armadura) |
+| Vida     | Dardo de Vida  | Cura 1d4 do alvo |
+| Morte     | Dardo de Necrótico  | 1d4 de dano necrótico (metade do dano arredondado para cima em cada armadura – caso o alvo tome dano na vida ele não pode ser curado no próximo turno) |
+| Sinestésica     | Dardo de Percepção  | Não causa dano (o alvo deve passar em um teste de percepção e se falhar ele fica atordoado no próximo turno) – múltiplos dardos acertando o mesmo alvo deixam ele atordoado por um máximo de 1 turno |
 
--	**Fogo** (Dardo de Fogo)
-> 1d4 de dano de fogo (+metade desse dano no próximo turno)
-
--	**Ar** (Dardo de Aar)
-> 1d4 de dano de ar (Ignora armadura)
-
--	**Vida** (Dardo de Vida)
-> cura 1d4 do alvo
-
--	**Morte** (Dardo Necrótico)
-> 1d4 de dano necrótico (metade do dano arredondado para cima em cada armadura – caso o alvo tome dano na vida ele não pode ser curado no próximo turno)
-
--	**Sinestésica** (Dardo de Percepção)
-> não causa dano (o alvo deve passar em um teste de percepção e se falhar ele fica atordoado no próximo turno) – múltiplos dardos acertando o mesmo alvo deixam ele atordoado por um máximo de 1 turno
-
-#### Ampliação
+**Ampliação**
  Cada runa adicional cria um dardo do seu tipo com um novo alvo (máximo de 6 runas no total)
 
 ---
@@ -49,6 +40,8 @@
 
 ### Bola de Fogo
 
+|Descrição |
+| ----------------------- |
 | Composição | 1 Runa Arcana + 2 Runas de Fogo |
 | Ataque |  Acerta uma área esférica com centro a até 45 m e raio de 5 m |
 | Dano |  Causa 5d6 de dano de fogo em cada alvo na área que falhar num teste de combate (esquiva ou bloqueio). Cada alvo que passar no teste toma metade do dano arredondado para baixo |
