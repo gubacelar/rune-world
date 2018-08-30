@@ -23,6 +23,9 @@
 [Habilidades](pages/skills.md)
 [Talentos](pages/talents.md)
 [Runas](pages/runes.md)
+[Ataques](pages/attacks.md)
+[Magias](pages/magics.md)
+[Combate](pages/combat.md)
 
 
 <!-- A more complex navigation example: ----------------------------------------
