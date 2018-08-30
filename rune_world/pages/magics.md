@@ -2,7 +2,7 @@
 
 | Magias (Runas)        |
 |-------|--------------|
-|[Dardo Arcano(1)](pages/magics.md#Dardo_Arcano) | [Bola de Fogo](pages/magics.md#Bola_de_Fogo)|
+|[Dardo Arcano(1)](###Dardo_Arcano) | [Bola de Fogo](###Bola_de_Fogo)|
 
 
 ## 1 Runas
@@ -63,14 +63,12 @@ Cada runa adicional só aumenta o efeito de uma magia que tenha ela como base (m
 | Runa | Ampliação |
 | ---- | -------- |
 | Terra | Mantem a área ativa causando a metade do dano por +1 turno (nenhum dano em quem passa no teste) |
-| Água | - Reduz a movimentação em ¼ no próximo turno (ra runas congelam os alvos) de quem não passar no teste
-         - Aumenta a cura  em 1d4 |
+| Água | Reduz a movimentação em ¼ no próximo turno (ra runas congelam os alvos) de quem não passar no teste / Aumenta a cura  em 1d4 |
 | Fogo |  Cada runa de fogo aumenta em 2d6 o dano |
 | Ar | Aumenta o dano sofrido para quem passa no teste para ¾ |
 | Vida | +1 turno de regeneração de 1d4 |
 | Morte | Cancela resistência elemental dos alvos |
-| Arcana | - +1d6 de dano
-- +1d4 de cura |
+| Arcana | +1d6 de dano / +1d4 de cura |
 | Sinestésica | 10% do dano vai na armadura física (stacka) |
 
 ## 4 Runas
