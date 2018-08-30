@@ -2,7 +2,7 @@
 
 | Magias (Runas)        |
 |-------|--------------|
-|[Dardo Arcano(1)](/magics.md#Dardo_Arcano) | [Bola de Fogo](/magics.md#Bola_de_Fogo)|
+|[Dardo Arcano(1)](pages/magics.md#Dardo_Arcano) | [Bola de Fogo](pages/magics.md#Bola_de_Fogo)|
 
 
 ## 1 Runas
