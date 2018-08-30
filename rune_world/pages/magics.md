@@ -1,10 +1,8 @@
 #Magias
 
-| Runas | Magia        |
+| Magias (Runas)        |
 |-------|--------------|
-| 1     | [Dardo Arcano](/pages/magics.md#Dardo_Arcano) |
-| 3      | [Bola de Fogo](/pages/magics.md#Bola_de_Fogo)|
-
+|[Dardo Arcano(1)](/magics.md#Dardo_Arcano) | [Bola de Fogo](/magics.md#Bola_de_Fogo)|
 
 
 ## 1 Runas
@@ -47,56 +45,33 @@
 | Dano |  Causa 5d6 de dano de fogo em cada alvo na área que falhar num teste de combate (esquiva ou bloqueio). Cada alvo que passar no teste toma metade do dano arredondado para baixo |
 | Variação | Substitui as 2 runas de fogo |
 
-- **Água + Água** (Bola de Gelo)
-> Muda o dano para dano de gelo
 
-- **Terra + Morte** (Bola de Veneno)
-> Muda o dano para dano de veneno
-
-- **Ar + Fogo** (Bola de Raios)
-> Muda o dano para dano elétrico
-
-- **Água + Vida** (Bola de Cura)
-> Cura 4d4 de vida de todos na área
-
-- **Vida + Vida**	(Círculo de Regeneração)
-> Regenera 1d4 de vida por tuno para todos na área por 3 turnos
-
-- **Fogo + Morte** (Explosão)
-> Aumenta o raio de ação para 10m e diminui o dano para 3d6 de fogo
+| Variação | Magia          | Efeito                                                 |
+|----------|----------------|--------------------------------------------------------|
+| Água + Água | Bola de Gelo | Muda o dano para dano de gelo |
+| Terra + Morte | Bola de Veneno | Muda o dano para dano de veneno |
+| Ar + Fogo | Bola de Raios | Muda o dano para dano elétrico |
+| Água + Vida | Bola de Cura | Cura 4d4 de vida de todos na área |
+| Vida + Vida |	Círculo de Regeneração | Regenera 1d4 de vida por tuno para todos na área por 3 turnos |
+| Fogo + Morte | Explosão | Aumenta o raio de ação para 10m e diminui o dano para 3d6 de fogo |
 
 
-#### Ampliação
+**Ampliação**
 
 Cada runa adicional só aumenta o efeito de uma magia que tenha ela como base (modificada ou original
 
--	**Terra**
-> Mantem a área ativa causando a metade do dano por +1 turno (nenhum dano em quem passa no teste)
-
--	**Água**
-> 	Reduz a movimentação em ¼ no próximo turno (ra runas congelam os alvos) de quem não passar no teste
-
-> 	Aumenta a cura  em 1d4
-
--	**Fogo**
-> Cada runa de fogo aumenta em 2d6 o dano
-
--	**Ar**
-> Aumenta o dano sofrido para quem passa no teste para ¾
-
--	**Vida**
-> +1 turno de regeneração de 1d4
-
-- **Morte**
-> Cancela resistência elemental dos alvos
-
--	**Arcana**
->	+1d6 de dano
-
->	+1d4 de cura
-
-- **Sinestésica**
->10% do dano vai na armadura física (stacka)
+| Runa | Ampliação |
+| ---- | -------- |
+| Terra | Mantem a área ativa causando a metade do dano por +1 turno (nenhum dano em quem passa no teste) |
+| Água | - Reduz a movimentação em ¼ no próximo turno (ra runas congelam os alvos) de quem não passar no teste
+         - Aumenta a cura  em 1d4 |
+| Fogo |  Cada runa de fogo aumenta em 2d6 o dano |
+| Ar | Aumenta o dano sofrido para quem passa no teste para ¾ |
+| Vida | +1 turno de regeneração de 1d4 |
+| Morte | Cancela resistência elemental dos alvos |
+| Arcana | - +1d6 de dano
+- +1d4 de cura |
+| Sinestésica | 10% do dano vai na armadura física (stacka) |
 
 ## 4 Runas
 
