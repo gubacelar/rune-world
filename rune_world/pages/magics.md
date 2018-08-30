@@ -1,9 +1,23 @@
 #Magias
 
+| Runas | Magia        |
+|-------|--------------|
+| 1     | [Dardo Arcano](#Dardo_Arcano) |
+|       |              |
+|       |              |
+
+
 ## 1 Runas
 
 ---
 ### Dardo Arcano:
+
+| Composição  | 1 Runa Arcana                                                                  |
+|-------------|--------------------------------------------------------------------------------|
+| Ataque      | Somente um ataque de toque a distância é feito e comparado ao AC de cada alvo. |
+| Dano        | 1d4                                                                            |
+| Modificação | Substitui Runa Arcana.                                                         |
+
 Composição: 1 Runa Arcana
 Ataque: somente um ataque de toque a distância é feito e comparado ao AC de cada alvo
 Dano: 1d4 de dano arcano (bloqueado pela armadura mágica)
