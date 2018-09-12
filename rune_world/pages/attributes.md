@@ -41,7 +41,7 @@ Atributos mágicos dizem respeito a inteligência e conexão do seu personagem c
 A Espiritualidade mede sua força de espirito, o equilibrio entre o seu corpo e a magia das runas. Uma espiritualidade alta melhora a taxa de regeneração de runas.
 
 ## Intelecto
-Inteligência mede a capacidade de aprender, entender e o raciocínio. O intelectuo influência quantos tipos de runas se conhece e pode se utilizar.
+Inteligência mede a capacidade de aprender, entender e o raciocínio. O intelecto define quantos tipos de runas e a quantidade de runas que pode se utilizar por turno.
 
 ## Runic
 A magia do mundo vem através das runas, alguns personagens tem consigo mesmo runas gravadas em suas almas, o que faz com que eles tenham acesso a essa magia de forma mais fácil. Runic influência a quantidade de runas totais que um personagem pode ter bem como no na intensidade.
