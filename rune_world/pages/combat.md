@@ -32,9 +32,9 @@ valores representam porcentagem de chance.
 Um personagem com BA 12 que ataca outro personagem com RB 36 e MA 40PD/10RB teria um total de 26RB e 40 AM, devemos subtrair o BA do RB (26-12 = 14).
 
 | Reflexos | Armadura | Pontos de Vida |
--------------------------
-| 14% | 40% | 46% |
-| 1-14 | 15-54 | 55-100 |
+|----------|----------|----------------|
+| 14%      | 40%      | 46%            |
+| 1-14     | 15-54    | 55-100         |
 
 No caso descrito valores entre 1-14 errariam o alvo, 15-54 acertaiam a armadura e 55-100 acertam direto os pontos de vida.
 
